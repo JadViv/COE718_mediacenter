@@ -1,4 +1,4 @@
-### COE718_mediacenter
+## COE718_mediacenter
 ________________________________________
 Final Project – Media Centre
 COE718 – Embedded Systems Design
