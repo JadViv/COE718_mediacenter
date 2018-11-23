@@ -4,9 +4,9 @@ Final Project – Media Centre
 
 COE718 – Embedded Systems Design
 
-Name – Jadhushan Vivekanandan
+Name – --- ---
 
-Student # - 500626549
+Student # - ---------
 
 Department of Computer and Electrical Engineering
 
